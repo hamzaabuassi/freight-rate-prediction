@@ -1,4 +1,5 @@
-*.csv
-outputs/
-scorer_results/
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+december-chart-inputs.csv
 __pycache__/
